@@ -4,9 +4,9 @@ am 16. &amp; 17. April 2015
 
 ## Donnerstag
 
-1. [AndreasFalk]
+1. [AndreasFalk](AndreasFalk)
   * [Folien](AndreasFalk/specbyexample_gp4.pdf)
-2. RainerSchmidberger
+2. (RainerSchmidberger)
   * [Folien](RainerSchmidberger/Manuelles Testen mit TSM.pdf)
   * Workshop: http://sourceforge.net/projects/tsmtest/files/Handbuch-v1.5.2.pdf/download
 3. AndreaHerrmann
