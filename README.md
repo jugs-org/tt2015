@@ -29,6 +29,10 @@ am 16. &amp; 17. April 2015
 4. JeremiasRoessler
   * [Folien](JeremiasRoessler/Einreichung_roessler.pdf)
   * Workshop: http://sourceforge.net/projects/jmonkeytesting
+  
+## Eindrücke von den Testtagen
+
+* https://www.flickr.com/photos/oliboehm/sets/72157651989675382/
 
 ## Eindrücke von den letzten Testtagen:
 
