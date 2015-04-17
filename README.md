@@ -28,6 +28,7 @@ am 16. &amp; 17. April 2015
   * [Workshop](KatharinaKnaus/TestTage_Knaus_Uebung_EinfuehrungVonSelenium2.pptx)
 4. JeremiasRoessler
   * [Folien](JeremiasRoessler/Einreichung_roessler.pdf)
+  * Workshop: http://sourceforge.net/projects/jmonkeytesting
 
 ## Eindrücke von den letzten Testtagen:
 
