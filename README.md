@@ -25,8 +25,8 @@ am 16. &amp; 17. April 2015
   * [Folien](MartinPelzer/geb.pdf)
   * Workshop: https://github.com/mpelze/geb_workshop
 3. KatharinaKnaus
-  * [Folien](KatharinaKnaus/TestTage_Knaus_EinfuehrungVonSelenium2.pptx)
-  * [Workshop](KatharinaKnaus/TestTage_Knaus_Uebung_EinfuehrungVonSelenium2.pptx)
+  * [Folien](KatharinaKnaus/TestTage_Knaus_EinfuehrungVonSelenium2.pdf)
+  * [Workshop](KatharinaKnaus/TestTage_Knaus_Uebung_EinfuehrungVonSelenium2.pdf)
 4. JeremiasRoessler
   * [Folien](JeremiasRoessler/Einreichung_roessler.pdf)
   * Workshop: http://sourceforge.net/projects/jmonkeytesting
