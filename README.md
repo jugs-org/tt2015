@@ -20,6 +20,7 @@ am 16. &amp; 17. April 2015
 
 1. MichaelHaug
   * [Folien](MichaelHaug/InfrastrukturFuerTests.pdf)
+  * [DemoProjekt](DemoProjekt)
 2. MartinPelzer
   * [Folien](MartinPelzer/geb.pdf)
   * Workshop: https://github.com/mpelze/geb_workshop
